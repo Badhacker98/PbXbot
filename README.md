@@ -47,7 +47,7 @@
 - Fork & Star this repo.
 - Click on below button to access deploy page.
 - NOTE: Click on deploy button from your fork only.
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/MXNIHACKER/DevilXMusic)
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/MXNIHACKER/DevilXUser)
 
 ------
 ## Variables
