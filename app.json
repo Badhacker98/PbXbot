@@ -17,11 +17,6 @@
       "description": "Setting this to ANYTHING will enable heroku.",
       "value": "ANYTHING"
     },
-    "GIT_REPO": {
-      "description": "Don't Change It Otherwise The Bot Will Crash.",
-      "value": "MXNIHACKER/DevilXPlugins"
-      "required": false
-    },
     "ABUSE": {
       "description": "Leave it blank if you dont want Profanity in PBxBot. Else Fill ON.",
       "value": "ON",
