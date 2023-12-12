@@ -6,7 +6,7 @@ _hell_zip () {
     then
         echo "https://github.com/${GIT_REPO}/archive/master.zip"
     else
-        echo "https://github.com/MXNIHACKER/DevilXPlugins/archive/master.zip"
+        echo "MXNIHACKER/DevilXPlugins"
 }
 
 _library () {
