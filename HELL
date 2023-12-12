@@ -6,7 +6,8 @@ _hell_zip () {
     then
         echo "https://github.com/${GIT_REPO}/archive/master.zip"
     else
-        echo "MXNIHACKER/DevilXPlugins"
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1IZWxsQm90L1BsdWdpbnMtVC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
+    fi
 }
 
 _library () {
