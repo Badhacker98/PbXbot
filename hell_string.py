@@ -33,14 +33,14 @@ except:
 
 
 def main():
-    print("⚡ 𝐓 𝐄 𝐀 𝐌  𝐃 𝐄 𝐕 𝐈 𝐋  𝐁 𝐎 𝐓 ⚡")
-    print("𝐇ᴇʟʟᴏ🦋𝐖ᴇʟᴄᴏᴍᴇ 𝐓ᴏ 𝐃ᴇᴠɪʟ 𝐁ᴏᴛ 𝐒ᴇssɪᴏɴ 𝐆ᴇɴᴇʀᴀᴛᴏʀ\n")
-    print("𝐇ᴜᴍᴀɴ 𝐕ᴇʀɪғɪᴄᴀᴛɪᴏɴ 𝐑ᴇǫᴜɪʀᴇᴅ⚠️")
+    print("T E A M    H E L L B O T   ! !")
+    print("Hello!! Welcome to HellBot Session Generator\n")
+    print("Human Verification Required !!")
     while True:
         verify = int(randint(1, 50))
         okvai = int(input(f"Enter {verify} to continue: "))
         if okvai == verify:
-            print("\nChoose the string session type: \n1. Devil Bot \n2. Telethon \n3. Pyrogram \n4. Instagram")
+            print("\nChoose the string session type: \n1. HellBot \n2. Telethon \n3. Pyrogram \n4. Instagram")
             while True:
                 library = input("\nYour Choice: ")
                 if library == "1":
@@ -63,16 +63,17 @@ def main():
 
 
 def generate_hellbot_session():
-    print("!!! 𝐃ᴇᴠɪʟ 𝐁ᴏᴛ 𝐒ᴇssɪᴏɴ !!!")
+    print("!!! HELLBOT SESSION !!!")
+    print("One session for all HellBot's Project.")
     api_id = int(input("\nEnter APP ID here: "))
     api_hash = input("\nEnter API_HASH here: ")
     with PClient(name="helluser", api_id=api_id, api_hash=api_hash, in_memory=True) as hell:
-        print("\nYour DEVIL BOT SESSION is saved in your telegram saved messages.")
+        print("\nYour HELLBOT SESSION is saved in your telegram saved messages.")
         _session = hell.export_session_string()
         hell_session = hellbot_session(_session)
         hell.send_message(
             "me",
-            f"DEVILBOT_SESSION \n\n`{hell_session}`",
+            f"#HELLBOT_SESSION \n\n`{hell_session}`",
         )
 
 
@@ -181,3 +182,4 @@ def hellbot_session(session):
 
 
 main()
+            
