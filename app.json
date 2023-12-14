@@ -19,7 +19,7 @@
     },
     "GIT_REPO": {
       "description": "Please Don't Change Anything Here Otherwise The Bot Will Crash.",
-      "value": "MXNIHACKER/DevilXPlugins",
+      "value": "Badmunda98/DevilXPlugins",
       "required": false
     },
     "ABUSE": {
