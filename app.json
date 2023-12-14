@@ -11,7 +11,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Badmunda98/DevilXUser",
+  "repository": "https://github.com/MXNIHACKER/DevilXUser",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -19,7 +19,7 @@
     },
     "GIT_REPO": {
       "description": "Please Don't Change Anything Here Otherwise The Bot Will Crash.",
-      "value": "Badmunda98/DevilXPlugins",
+      "value": "Badmunda98/BadXPlugins",
       "required": false
     },
     "ABUSE": {
