@@ -27,7 +27,7 @@
 ![Python](https://img.shields.io/badge/Python-v3.10-white?style=social&logo=python)
 ![GitHub language count](https://img.shields.io/github/languages/count/MXNIHACKER/DevilXUser?&style=social&logo=hyper)
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/ll_PBX_ll)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/ll_BAD_MUNDA_WORLD_ll)
 
 [![Documentation](https://img.shields.io/badge/Documentations-docs.hellbot.tech-white?&style=social&logo=gitbook)](https://hellbot.tech)
 
