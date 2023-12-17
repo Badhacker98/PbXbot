@@ -15,7 +15,7 @@
 </h3>
 
 ------
-![GitHub forks](https://img.shields.io/github/fork/MXNIHACKER/DevilXUser?style=social)
+![GitHub forks](https://img.shields.io/github/forks/MXNIHACKER/DevilXUser?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/MXNIHACKER/DevilXUser?style=social)
 
 ![Repo Size](https://img.shields.io/github/repo-size/MXNIHACKER/DevilXUser?&style=social&logo=github)
