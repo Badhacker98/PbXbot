@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/f3d527042d776e282172c.jpg" alt="ll_PBX_ll">
+  <img src="https://telegra.ph/file/7b093d64e5bd9e15d334a.jpg" alt="ll_PBX_ll">
 </p>
 
 <h6 align="center">
