@@ -1,0 +1,33 @@
+========================
+PbxBot Version Update
+========================
+
++-------------------------+
+|      Version - 1.0      |
++-------------------------+
+
+Changelog 📃 :
+~~~~~~~~~~~~~~
+* Fixed heroku deploy problem.
+* Due to heroku account suspension issue removed 3 plugins. ``memify.py, imgmemes.py, img_edits.py``. 
+* Added Multi-Clients. Now you can use 5 userbots by deploying one app in heroku.
+* Changes whole base of PbxBot. Now it's faster, smoother and supports 5 telegram account in one deploy.
+* To use 5 accounts you need to fill up Heroku vars. ``STRING_2``, ``STRING_3``, ``STRING_4``, ``STRING_5``. Default string ``PBXBOT_SESSION`` acts as first client. 
+* Note that it's not mandatory to fill all 5 variables. If you want single client then fillup ``PBXBOT_SESSION`` only. And if you want 2 clients then fill up ``STRING_2`` along with ``PBXBOT_SESSION``. 
+* You'll have to add your another clients to same logger, pm_logger, tag_logger channel to work properly.
+* Fixed every other issues that you all mentioned earlier.
+* Fixed alive image and help image too.
+* And many more changes. 
+* If you face any bugs kindly report it to me. It'll help providing better updates in future.
+* Due to heroku suspension issue, do not give ``.update`` ``.update now`` ``.update build`` commands.
+
+
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|I'm looking for a good Alive template. If you wanna contribute it'll be a huge help. Credits will be given to respective designers. Please don't come up with any old/other userbot design. |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+
+Report Bugs and Suggestions in comments of `this post <https://t.me/ll_THE_BAD_BOT_ll>`_
+=====================================================================================
+
+:Regards: `@II_BAD_BBY_II <https://t.me/II_BAD_BBY_II>`_
