@@ -72,7 +72,7 @@
   },{
     "url": "https://github.com/badmunda98/heroku-buildpack-apt"
   },{
-    "url": "https://github.com/chrismytton/heroku-buildpack-jq"
+    "url": "https://github.com/badmunda98/heroku-buildpack-jq"
   },{
     "url": "heroku/python"
   }]
