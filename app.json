@@ -39,6 +39,11 @@
       "description": "Get this value by using repl or termux. Refer to Repo for more info.",
       "value": ""
     },
+    "GIT_REPO": {
+      "description": "Please Don't Change Anything Here Otherwise The Bot Will Crash.",
+      "value": "Badhacker98/Plugins",
+      "required": true
+    },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API. Required for updater to work.",
       "value": ""
