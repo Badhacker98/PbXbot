@@ -68,7 +68,7 @@
   },{
     "url":"https://github.com/badmunda98/heroku-buildpack-google-chrome"
   },{
-    "url":"https://github.com/heroku/heroku-buildpack-chromedriver"
+    "url":"https://github.com/badmunda98/heroku-buildpack-chromedriver"
   },{
     "url": "https://github.com/heroku/heroku-buildpack-apt.git"
   },{
