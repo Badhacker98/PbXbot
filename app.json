@@ -1,7 +1,7 @@
 {
-  "name": "🕊️⃝‌ᴘʙx ❤️ᥫ᭡፝֟፝֟",
+  "name": "👑➵⏤͟͞𝙃𝙞𝙏𝙇𝙀𝙍x𝙋𝘼𝙋𝘼👑",
   "description": "One of the best Userbot for Telegram. Known for its Smoothness, Design, Support.",
-  "logo": "https://telegra.ph/file/ad01c8568b57038127472.jpg",
+  "logo": "https://telegra.ph/file/dc3f9ec016ff988ad0f9c.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -11,7 +11,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Badhacker98/PbXbot",
+  "repository": "https://github.com/hitlerpapa1889/PbXbot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -41,7 +41,7 @@
     },
     "GIT_REPO": {
       "description": "Please Don't Change Anything Here Otherwise The Bot Will Crash.",
-      "value": "Badhacker98/Plugins",
+      "value": "hitlerpapa1889/Plugins",
       "required": true
     },
     "HEROKU_API_KEY": {
@@ -64,15 +64,15 @@
     }
   }],
   "buildpacks": [{
-    "url": "https://github.com/badmunda98/heroku-buildpack-ffmpeg-latest"
+    "url": "https://github.com/hitlerpapa1889/heroku-buildpack-ffmpeg-latest"
   },{
-    "url":"https://github.com/badmunda98/heroku-buildpack-google-chrome"
+    "url":"https://github.com/hitlerpapa1889/heroku-buildpack-google-chrome"
   },{
-    "url":"https://github.com/badmunda98/heroku-buildpack-chromedriver"
+    "url":"https://github.com/hitlerpapa1889/heroku-buildpack-chromedriver"
   },{
-    "url": "https://github.com/badmunda98/heroku-buildpack-apt"
+    "url": "https://github.com/hitlerpapa1889/heroku-buildpack-apt"
   },{
-    "url": "https://github.com/badmunda98/heroku-buildpack-jq"
+    "url": "https://github.com/hitlerpapa1889/heroku-buildpack-jq"
   },{
     "url": "heroku/python"
   }]
