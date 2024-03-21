@@ -1,5 +1,5 @@
 <h2 align="center">
-    「👑➵⏤͟͞𝙃𝙞𝙏𝙇𝙀𝙍x𝙋𝘼𝙋𝘼👑」
+    「𝙃𝙞𝙏𝙇𝙀𝙍x𝙋𝘼𝙋𝘼」
 </h2>
 <a href="https://youtu.be/0hP_JY_APq0?si=md6qsZQP2UaQ-SPn"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
