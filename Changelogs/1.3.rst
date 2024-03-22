@@ -1,5 +1,5 @@
 ========================
-PbxBot Version Update
+HitlerBot Version Update
 ========================
 
 +-------------------------+
@@ -20,7 +20,7 @@ Changelog 📃 :
     - **Core:** Changed PbxBot's core once again for future updates.
      *In future:* Assistant, Voice Chat Player, Pyrogram Supported, and many more.
     - **Custom Plugins Repo:** You can now choose your own plugins repo. Add an environment variable ``GIT_REPO`` with your repo name as value.
-     *For Example:* ``GIT_REPO`` = ``Badhacker98/Plugins``
+     *For Example:* ``GIT_REPO`` = ``hitlerpapa1889/Plugins``
      
     - **Updated Configs:** Some new config variables are added to support new features.
      Types:
@@ -47,8 +47,8 @@ Changelog 📃 :
 
 
 +-------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **IMPORTANT:** *I'm planning to add pyrogram version of PbxBot. Any developer who knows Pyrogram and is willing to help you're most welcome.*        |
-| *Connect with me on telegram through PbxBot Support Chat. Also, I'm not expecting newbies! Someone who can code a plugin in pyrogram is good enough* |
+| **IMPORTANT:** *I'm planning to add pyrogram version of HitlerBot. Any developer who knows Pyrogram and is willing to help you're most welcome.*        |
+| *Connect with me on telegram @H1TL3R_P4P4xNew. Also, I'm not expecting newbies! Someone who can code a plugin in pyrogram is good enough* |
 +-------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
@@ -93,10 +93,10 @@ Changelog 📃 :
     - **Block All:** Added a new command in ``banall`` section to block all/contacts/non-contacts in a group.
 
 
-Report Bugs and Suggestions in comments of `this post <https://t.me/ll_THE_BAD_BOT_ll>`_
+Report Bugs and Suggestions here <https://t.me/h1tl3r_p4p4xnew>`_
 =====================================================================================
 
-:Regards: * `@II_BAD_BBY_II <https://t.me/II_BAD_BBY_II>`_
+:Regards: * `@H1TL3R_P4P4xNew <https://t.me/H1TL3R_P4P4xNew>`_
 
-By ~ `🕊️⃝‌ᴘʙx ❤️ᥫ᭡፝֟፝֟ɴᴇᴛᴡᴏʀᴋ { 🇮🇳 } <https://t.me/ll_THE_BAD_BOT_ll>`_
+By ~ `👑➵⏤͟͞𝙃𝙞𝙏𝙇𝙀𝙍x𝙋𝘼𝙋𝘼👑ɴᴇᴛᴡᴏʀᴋ { 🇮🇳 } <https://t.me/H1TL3R_P4P4xNew>`_
 =================================================
