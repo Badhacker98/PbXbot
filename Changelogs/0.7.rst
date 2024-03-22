@@ -1,5 +1,5 @@
 ========================
-PbxBot Version Update
+HitlerBot Version Update
 ========================
 
 +-------------------------+
@@ -22,9 +22,9 @@ Changelog 📃 :
 * Problem in climate plugin was due to API. So no need for fixes. Now it's working fine. [Got a comment on this]
 * Bugs fixes and improved performance.
 
-Report Bugs and Suggestions in comments of `this post <https://t.me/ll_THE_BAD_BOT_ll>`_
+Report Bugs and Suggestions here <https://t.me/h1tl3r_p4p4xnew>`_
 =====================================================================================
 
-**📌 To update your 🕊️⃝‌ᴘʙx ❤️ᥫ᭡፝֟፝֟do** ``.update build``
+**📌 To update your 👑➵⏤͟͞𝙃𝙞𝙏𝙇𝙀𝙍x𝙋𝘼𝙋𝘼👑do** ``.update build``
 
-:Regards: `@II_BAD_BBY_II <https://t.me/II_BAD_BBY_II>`_
+:Regards: `@H1TL3R_P4P4xNew <https://t.me/II_BAD_BBY_II>`_
