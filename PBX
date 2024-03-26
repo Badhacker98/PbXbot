@@ -20,13 +20,13 @@ _library () {
 }
 
 _starter () {
-    local Pbxpath
-    Pbxpath="Plugins.zip"
+    local pbxpath
+    pbxpath="Plugins.zip"
     echo "••• DOWNLOADING PBXBOT •••"
-    wget -q $(_Pbx_zip) -O "$Pbxpath"
-    PBXPATH=$(zipinfo -1 "$Pbxpath" | grep -v "/.");
-    unzip -qq "$Pbxpath"
-    rm -rf "$Pbxpath"
+    wget -q $(_pbx_zip) -O "$pbxpath"
+    PBXPATH=$(zipinfo -1 "$pbxpath" | grep -v "/.");
+    unzip -qq "$pbxpath"
+    rm -rf "$pbxpath"
     cd $PBXPATH
     python3 ../updater.py ../requirements.txt requirements.txt
     echo "••• STARTING PBXBOT •••"
