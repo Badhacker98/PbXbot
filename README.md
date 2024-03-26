@@ -43,6 +43,8 @@
 - NOTE: Click on deploy button from your fork only.
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Badhacker98/PbXbot)
 
+
+## Deploy To Render
 - <p align="center">
   <a href="https://render.com/deploy?repo=https://github.com/Badhacker98/PbXbot" target="_blank">
     <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
