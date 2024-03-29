@@ -30,6 +30,12 @@
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/ll_BAD_MUNDA_WORLD_ll)
 
 ------
+### SAFETY GUIDE LINES
+- ➡️FORK AT YOUR OWN RISK.
+- ➡️Don't use New Tg Id (use 7,8 month old id).
+- ➡️Don't use Fake Number.
+- ➡️Don't use Fake Gmail Id.
+------
 ## Deploy 🚀
 - [![Heroku](https://img.shields.io/badge/𝐏ʙxʙᴏᴛ-Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku)](#Deploy-To-Heroku)
 
