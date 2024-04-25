@@ -41,7 +41,7 @@
     },
     "GIT_REPO": {
       "description": "Please Don't Change Anything Here Otherwise The Bot Will Crash.",
-      "value": "Zexxy69/Ultroid",
+      "value": "Zexxy69/Plugins",
       "required": true
     },
     "HEROKU_API_KEY": {
