@@ -6,7 +6,7 @@ _Pbx_zip () {
     then
         echo "https://github.com/${GIT_REPO}/archive/master.zip"
     else
-        echo "https://github.com/Zexxy69/Ultroid" 
+        echo "https://github.com/Zexxy69/Plugins/tree/master" 
     fi
 }
 
