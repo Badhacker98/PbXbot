@@ -1,7 +1,7 @@
 {
   "name": "🕊️LUNDXBOT",
   "description": "YE DEXTER KA PVT BOT HAI BKL",
-  "logo": "https://telegra.ph/file/cd47b024aec2896cc9d9a.jpg",
+  "logo": "https://telegra.ph/file/5979bd620ddc59ad8bb5b.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -11,7 +11,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Zexxy69/Ultroid",
+  "repository": "https://github.com/Zexxy69/PbXbot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
