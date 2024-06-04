@@ -52,6 +52,11 @@
       "description": "The Value of App Name you filled in right on top. Required for updater to work.",
       "value": ""
     },
+    "LOGGER_ID": {
+      "description": "Fill here log group id where you bot always stay admin ( id music started with -100).",
+      "value": "",
+      "required": false
+    },
     "BOT_TOKEN": {
       "description": "Make a bot from @BotFather and paste the bot token here.",
       "value": ""
