@@ -53,7 +53,7 @@
       "value": ""
     },
     "LOGGER_ID": {
-      "description": "Fill here log group id where you bot always stay admin ( id music started with -100).",
+      "description": "Fill here log group id where you bot always stay admin ( id must started with -100).",
       "value": "",
       "required": false
     },
