@@ -1,7 +1,6 @@
-##Self Host VPS
-
- **FORK THIS REPO**
+**FORK THIS REPO**
 - `https://github.com/Badhacker98/Plugins/fork`
+
 
 **VPS/Local hosting**
 
