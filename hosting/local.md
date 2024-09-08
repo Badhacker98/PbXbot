@@ -33,3 +33,10 @@
 - `python3 -m TelethonPbx`
  
 ------
+
+## PBXUSERBOT STRING
+
+- `git clone https://github.com/Badhacker98/PbXbot && cd PbXbot`
+- `python3 -m Pbx_string.py`
+
+  ------
