@@ -62,8 +62,9 @@
 
 - **VPS/Local hosting**
 - - [![Vps](https://img.shields.io/badge/ᴘʙxʙᴏᴛ-ᴅᴇᴘʟᴏʏ%20ᴛᴏ%20ᴠᴘs-black?style=for-the-badge&logo=vps)](https://github.com/Badhacker98/PbXbot/blob/master/hosting/local.md)
+ 
 
-
+- [**ᴘʟᴜɢɪɴs ʀᴇᴘᴏ**](https://github.com/Badhacker98/Plugins/tree/master)
 ------
 ## Variables
 
