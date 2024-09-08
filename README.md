@@ -72,7 +72,8 @@
 - `PBXBOT_SESSION`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `HANDLER`  =  Your command handler.
-- `DATABASE_URL`  =  A Postgresql database url.
+- `DATABASE_URL`  =  A Postgresql database url. (
+- [postgresql](https://www.elephantsql.com/)
 
 
 ------
