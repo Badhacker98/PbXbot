@@ -59,7 +59,8 @@
 ------
 
 ### Deploy To Vps/local Hosting 
-- VPS/Local hosting: [Click here]
+
+- VPS/Local hosting: [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/Badhacker98/PbXbot/blob/master/hosting/local.md)
 
 
 ------
