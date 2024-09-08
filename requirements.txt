@@ -44,8 +44,7 @@ tgcrypto
 validators
 vcam
 py-tgcalls==2.0.0
-
+yt-dlp==2023.10.7
 git+https://github.com/badmunda98/py-googletrans
 git+https://github.com/badmunda98/Wikipedia
-git+https://github.com/badmunda98/yt-dp-fork
 git+https://github.com/badmunda98/yt-search-python
