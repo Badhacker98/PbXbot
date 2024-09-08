@@ -24,7 +24,7 @@
 
 - `sudo apt install screen`
 
-- `screen -S Plugins`
+- `screen -R Plugins`
 
 - `virtualenv venv`
 
