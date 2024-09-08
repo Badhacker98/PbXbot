@@ -1,8 +1,6 @@
-**FORK THIS REPO**
-- `https://github.com/Badhacker98/Plugins/fork`
-
-
 **VPS/Local hosting**
+
+[ ғᴏʀᴋ ᴛʜɪs ʀᴇᴘᴏ ](https://github.com/Badhacker98/Plugins/fork)
 
 - `pip3 install --upgrade pip && pip3 install flask`
 
