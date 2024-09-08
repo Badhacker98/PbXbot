@@ -57,6 +57,12 @@
 </p>
 
 ------
+
+### Deploy To Vps/local Hosting 
+- VPS/Local hosting: [Click here]
+
+
+------
 ## Variables
 
 - `APP_ID`  =  Get this value from my.telegram.org
